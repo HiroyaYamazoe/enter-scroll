@@ -1,0 +1,8 @@
+/.eslintrc.json
+/.vscode-test.mjs
+/.vscodeignore
+/CHANGELOG.md
+/enter-scroll-1.0.0.vsix
+/node_modules
+/out
+/vsc-extension-quickstart.md
