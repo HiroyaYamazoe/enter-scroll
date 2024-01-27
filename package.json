@@ -3,7 +3,7 @@
   "publisher": "HiroyaYamazoe",
   "displayName": "enter-scroll",
   "description": "enter scroll",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -15,22 +15,11 @@
   "contributes": {
     "commands": [
       {
-        "command": "enter-scroll.insertLineAndScroll",
-        "title": "insertLineAndScroll"
-      },
-      {
         "command": "enter-scroll.toggleInsertLineAndScroll",
         "title": "toggleInsertLineAndScroll"
       }
     ],
     "keybindings": [
-      {
-        "command": "enter-scroll.insertLineAndScroll",
-        "key": "shift+enter",
-        "mac": "shift+enter",
-        "linux": "shift+enter",
-        "when": "editorTextFocus"
-      },
       {
         "command": "enter-scroll.toggleInsertLineAndScroll",
         "key": "ctrl+alt+i",
