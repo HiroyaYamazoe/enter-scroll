@@ -8,6 +8,9 @@ This is an vscode-extension that scrolls the screen by one line when you press E
 
 ## Release Notes
 
+### 2.2.0
+Bug fixed.
+
 ### 2.0.0
 Change all.
 
